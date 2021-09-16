@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -Og -g -std=c++11 -g   CMakeFiles/monitor.dir/src/monitor.cpp.o  -o monitor -rdynamic 

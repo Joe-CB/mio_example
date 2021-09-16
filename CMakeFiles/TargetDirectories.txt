@@ -1,0 +1,5 @@
+/home/chenbiao/code/mio_check/CMakeFiles/edit_cache.dir
+/home/chenbiao/code/mio_check/CMakeFiles/monitor.dir
+/home/chenbiao/code/mio_check/CMakeFiles/amender.dir
+/home/chenbiao/code/mio_check/CMakeFiles/monitor_sink.dir
+/home/chenbiao/code/mio_check/CMakeFiles/rebuild_cache.dir

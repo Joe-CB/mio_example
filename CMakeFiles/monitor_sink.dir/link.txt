@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -Og -g -std=c++11 -g   CMakeFiles/monitor_sink.dir/src/monitor_sink.cpp.o  -o monitor_sink -rdynamic 
